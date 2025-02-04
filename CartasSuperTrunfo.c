@@ -81,7 +81,7 @@ float PPARH01, PPARH02, PPARH03, PPARH04, AREAARH01, AREAARH02, AREAARH03, AREAA
 int NPTARH01, NPTARH02, NPTARH03, NPTARH04;
 
 printf ("Agora insira os dados de cada cidade abaixo.\n");
-printf ("1- São Paulo(A):\n");
+printf ("1- São Paulo(A)\n");
 printf ("- São Paulo(A01):\n");
 printf ("População: ");
 scanf ("%f", &PPBRA01);
@@ -91,6 +91,47 @@ printf ("PIB (Em R$): ");
 scanf ("%f", &PIBBRA01);
 printf ("Número de Pontos Turísticos: ");
 scanf ("%i", &NPTBRA01);
+
+printf ("- Campinas(A02)\n");
+printf ("População: ");
+scanf ("%f", &PPBRA02);
+printf ("Área (Em km²): ");
+scanf ("%f", &AREABRA02);
+printf ("PIB (Em R$): ");
+scanf ("%f", &PIBBRA02);
+printf ("Número de Pontos Turísticos: ");
+scanf ("%i", &NPTBRA02);
+
+printf ("- Sorocaba(A03)\n");
+printf ("População: ");
+scanf ("%f", &PPBRA03);
+printf ("Área (Em km²): ");
+scanf ("%f", &AREABRA03);
+printf ("PIB (Em R$): ");
+scanf ("%f", &PIBBRA03);
+printf ("Número de Pontos Turísticos: ");
+scanf ("%i", &NPTBRA03);
+
+printf ("- Santos(A04)\n");
+printf ("População: ");
+scanf ("%f", &PPBRA04);
+printf ("Área (Em km²): ");
+scanf ("%f", &AREABRA04);
+printf ("PIB (Em R$): ");
+scanf ("%f", &PIBBRA04);
+printf ("Número de Pontos Turísticos: ");
+scanf ("%i", &NPTBRA04);
+
+printf ("2- Rio de Janeiro(B)\n");
+printf ("- Rio de Janeiro(B01)\n");
+printf ("População: ");
+scanf ("%f", &PPBRB01);
+printf ("Área (Em km²): ");
+scanf ("%f", &AREABRB01);
+printf ("PIB (Em R$): ");
+scanf ("%f", &PIBBRB01);
+printf ("Número de Pontos Turísticos: ");
+scanf ("%i", &NPTBRB01);
 
 
     return 0;
