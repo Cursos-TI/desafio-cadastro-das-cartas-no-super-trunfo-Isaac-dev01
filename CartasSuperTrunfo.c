@@ -81,6 +81,17 @@ float PPARH01, PPARH02, PPARH03, PPARH04, AREAARH01, AREAARH02, AREAARH03, AREAA
 int NPTARH01, NPTARH02, NPTARH03, NPTARH04;
 
 printf ("Agora insira os dados de cada cidade abaixo.\n");
+printf ("1- São Paulo(A):\n");
+printf ("- São Paulo(A01):\n");
+printf ("População: ");
+scanf ("%f", &PPBRA01);
+printf ("Área (Em km²): ");
+scanf ("%f", &AREABRA01);
+printf ("PIB (Em R$): ");
+scanf ("%f", &PIBBRA01);
+printf ("Número de Pontos Turísticos: ");
+scanf ("%i", &NPTBRA01);
+
 
     return 0;
 }
