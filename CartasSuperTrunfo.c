@@ -742,5 +742,411 @@ scanf ("%f", &PIBARH04);
 printf ("Número de Pontos Turísticos: ");
 scanf ("%i", &NPTARH04);
 
+printf ("Agora vamos imprimir os dados em detalhes para você...\n");
+printf ("Dados do Brasil:\n");
+printf ("1- São Paulo(A)\n");
+printf ("- São Paulo(A01)\n");
+printf ("População: %f", PPBRA01);
+printf ("Área (Em km²): %f", AREABRA01);
+printf ("PIB (Em R$): %f", PIBBRA01);
+printf ("Número de Pontos Turísticos: %i", NPTBRA01);
+
+printf ("- Campinas(A02)\n");
+printf ("População: %f", PPBRA02);
+printf ("Área (Em km²): %f", AREABRA02);
+printf ("PIB (Em R$): %f", PIBBRA02);
+printf ("Número de Pontos Turísticos: %i", NPTBRA02);
+
+printf ("- Sorocaba(A03)\n");
+printf ("População: %f", PPBRA03);
+printf ("Área (Em km²): %f", AREABRA03);
+printf ("PIB (Em R$): %f", PIBBRA03);
+printf ("Número de Pontos Turísticos: %i", NPTBRA03);
+
+printf ("- Santos(A04)\n");
+printf ("População: %f", PPBRA04);
+printf ("Área (Em km²): %f", AREABRA04);
+printf ("PIB (Em R$): %f", PIBBRA04);
+printf ("Número de Pontos Turísticos: %i", NPTBRA04);
+
+printf ("2- Rio de Janeiro(B)\n");
+printf ("- Rio de Janeiro(B01)\n");
+printf ("População: %f", PPBRB01);
+printf ("Área (Em km²): %f", AREABRB01);
+printf ("PIB (Em R$): %f", PIBBRB01);
+printf ("Número de Pontos Turísticos: %i", NPTBRB01);
+
+printf ("- Niterói(B02)\n");
+printf ("População: %f", PPBRB02);
+printf ("Área (Em km²): %f", AREABRB02);
+printf ("PIB (Em R$): %f", PIBBRB02);
+printf ("Número de Pontos Turísticos: %i", NPTBRB02);
+
+printf ("- Petrópolis(B03)\n");
+printf ("População: %f", PPBRB03);
+printf ("Área (Em km²): %f", AREABRB03);
+printf ("PIB (Em R$): %f", PIBBRB03);
+printf ("Número de Pontos Turísticos: %i", NPTBRB03);
+
+printf ("- Nova Iguaçu(B04)\n");
+printf ("População: %f", PPBRB04);
+printf ("Área (Em km²): %f", AREABRB04);
+printf ("PIB (Em R$): %f", PIBBRB04);
+printf ("Número de Pontos Turísticos: %i", NPTBRB04);
+
+printf ("3- Minas Gerais(C)\n");
+printf ("- Belo Horizonte(C01)\n");
+printf ("População: %f", PPBRC01);
+printf ("Área (Em km²): %f", AREABRC01);
+printf ("PIB (Em R$): %f", PIBBRC01);
+printf ("Número de Pontos Turísticos: %i", NPTBRC01);
+
+printf ("- Uberlândia(C02)\n");
+printf ("População: %f", PPBRC02);
+printf ("Área (Em km²): %f", AREABRC02);
+printf ("PIB (Em R$): %f", PIBBRC02);
+printf ("Número de Pontos Turísticos: %i", NPTBRC02);
+
+printf ("- Juiz de Fora(C03)\n");
+printf ("População: %f", PPBRC03);
+printf ("Área (Em km²): %f", AREABRC03);
+printf ("PIB (Em R$): %f", PIBBRC03);
+printf ("Número de Pontos Turísticos: %i", NPTBRC03);
+
+printf ("- Contagem(C04)\n");
+printf ("População: %f", PPBRC04);
+printf ("Área (Em km²): %f", AREABRC04);
+printf ("PIB (Em R$): %f", PIBBRC04);
+printf ("Número de Pontos Turísticos: %i", NPTBRC04);
+
+printf ("4- Bahia(D)\n");
+printf ("- Salvador(D01)\n");
+printf ("População: %f", PPBRD01);
+printf ("Área (Em km²): %f", AREABRD01);
+printf ("PIB (Em R$): %f", PIBBRD01);
+printf ("Número de Pontos Turísticos: %i", NPTBRD01);
+
+printf ("- Feira de Santana(D02)\n");
+printf ("População: %f", PPBRD02);
+printf ("Área (Em km²): %f", AREABRD02);
+printf ("PIB (Em R$): %f", PIBBRD02);
+printf ("Número de Pontos Turísticos: %i", NPTBRD02);
+
+printf ("- Vitória da Conquista(D03)\n");
+printf ("População: %f", PPBRD03);
+printf ("Área (Em km²): %f", AREABRD03);
+printf ("PIB (Em R$): %f", PIBBRD03);
+printf ("Número de Pontos Turísticos: %i", NPTBRD03);
+
+printf ("- Itabuna(D04)\n");
+printf ("População: %f", PPBRD04);
+printf ("Área (Em km²): %f", AREABRD04);
+printf ("PIB (Em R$): %f", PIBBRD04);
+printf ("Número de Pontos Turísticos: %i", NPTBRD04);
+
+printf ("5- Rio Grande do Sul(E)\n");
+printf ("- Porto Alegre(E01)\n");
+printf ("População: %f", PPBRE01);
+printf ("Área (Em km²): %f", AREABRE01);
+printf ("PIB (Em R$): %f", PIBBRE01);
+printf ("Número de Pontos Turísticos: %i", NPTBRE01);
+
+printf ("- Caxias do Sul(E02)\n");
+printf ("População: %f", PPBRE02);
+printf ("Área (Em km²): %f", AREABRE02);
+printf ("PIB (Em R$): %f", PIBBRE02);
+printf ("Número de Pontos Turísticos: %i", NPTBRE02);
+
+printf ("- Pelotas(E03)\n");
+printf ("População: %f", PPBRE03);
+printf ("Área (Em km²): %f", AREABRE03);
+printf ("PIB (Em R$): %f", PIBBRE03);
+printf ("Número de Pontos Turísticos: %i", NPTBRE03);
+
+printf ("- Santa Maria(E04)\n");
+printf ("População: %f", PPBRE04);
+printf ("Área (Em km²): %f", AREABRE04);
+printf ("PIB (Em R$): %f", PIBBRE04);
+printf ("Número de Pontos Turísticos: %i", NPTBRE04);
+
+printf ("6- Paraná(F)\n");
+printf ("- Curitiba(F01)\n");
+printf ("População: %f", PPBRF01);
+printf ("Área (Em km²): %f", AREABRF01);
+printf ("PIB (Em R$): %f", PIBBRF01);
+printf ("Número de Pontos Turísticos: %i", NPTBRF01);
+
+printf ("- Londrina(F02)\n");
+printf ("População: %f", PPBRF02);
+printf ("Área (Em km²): %f", AREABRF02);
+printf ("PIB (Em R$): %f", PIBBRF02);
+printf ("Número de Pontos Turísticos: %i", NPTBRF02);
+
+printf ("- Maringá(F03)\n");
+printf ("População: %f", PPBRF03);
+printf ("Área (Em km²): %f", AREABRF03);
+printf ("PIB (Em R$): %f", PIBBRF03);
+printf ("Número de Pontos Turísticos: %i", NPTBRF03);
+
+printf ("- Ponta Grossa(F04)\n");
+printf ("População: %f", PPBRF04);
+printf ("Área (Em km²): %f", AREABRF04);
+printf ("PIB (Em R$): %f", PIBBRF04);
+printf ("Número de Pontos Turísticos: %i", NPTBRF04);
+
+printf ("7- Pernambuco(G)\n");
+printf ("- Recife(G01)\n");
+printf ("População: %f", PPBRG01);
+printf ("Área (Em km²): %f", AREABRG01);
+printf ("PIB (Em R$): %f", PIBBRG01);
+printf ("Número de Pontos Turísticos: %i", NPTBRG01);
+
+printf ("- Olinda(G02)\n");
+printf ("População: %f", PPBRG02);
+printf ("Área (Em km²): %f", AREABRG02);
+printf ("PIB (Em R$): %f", PIBBRG02);
+printf ("Número de Pontos Turísticos: %i", NPTBRG02);
+
+printf ("- Caruaru(G03)\n");
+printf ("População: %f", PPBRG03);
+printf ("Área (Em km²): %f", AREABRG03);
+printf ("PIB (Em R$): %f", PIBBRG03);
+printf ("Número de Pontos Turísticos: %i", NPTBRG03);
+
+printf ("- Petrolina(G04)\n");
+printf ("População: %f", PPBRG04);
+printf ("Área (Em km²): %f", AREABRG04);
+printf ("PIB (Em R$): %f", PIBBRG04);
+printf ("Número de Pontos Turísticos: %i", NPTBRG04);
+
+printf ("8- Ceará(H)\n");
+printf ("- Fortaleza(H01)\n");
+printf ("População: %f", PPBRH01);
+printf ("Área (Em km²): %f", AREABRH01);
+printf ("PIB (Em R$): %f", PIBBRH01);
+printf ("Número de Pontos Turísticos: %i", NPTBRH01);
+
+printf ("- Sobral(H02)\n");
+printf ("População: %f", PPBRH02);
+printf ("Área (Em km²): %f", AREABRH02);
+printf ("PIB (Em R$): %f", PIBBRH02);
+printf ("Número de Pontos Turísticos: %i", NPTBRH02);
+
+printf ("- Juazeiro do Norte(H03)\n");
+printf ("População: %f", PPBRH03);
+printf ("Área (Em km²): %f", AREABRH03);
+printf ("PIB (Em R$): %f", PIBBRH03);
+printf ("Número de Pontos Turísticos: %i", NPTBRH03);
+
+printf ("- Crato(H04)\n");
+printf ("População: %f", PPBRH04);
+printf ("Área (Em km²): %f", AREABRH04);
+printf ("PIB (Em R$): %f", PIBBRH04);
+printf ("Número de Pontos Turísticos: %i", NPTBRH04);
+
+printf ("\n");
+
+printf ("Dados da Argentina:");
+printf ("1- Buenos Aires(A)\n");
+printf ("- Buenos Aires(A01)\n");
+printf ("População: %f", PPARA01);
+printf ("Área (Em km²): %f", AREAARA01);
+printf ("PIB (Em R$): %f", PIBARA01);
+printf ("Número de Pontos Turísticos: %i", NPTARA01);
+
+printf ("- La Plata(A02)\n");
+printf ("População: %f", PPARA02);
+printf ("Área (Em km²): %f", AREAARA02);
+printf ("PIB (Em R$): %f", PIBARA02);
+printf ("Número de Pontos Turísticos: %i", NPTARA02);
+
+printf ("- Mar del Plata(A03)\n");
+printf ("População: %f", PPARA03);
+printf ("Área (Em km²): %f", AREAARA03);
+printf ("PIB (Em R$): %f", PIBARA03);
+printf ("Número de Pontos Turísticos: %i", NPTARA03);
+
+printf ("- Bahía Blanca(A04)\n");
+printf ("População: %f", PPARA04);
+printf ("Área (Em km²): %f", AREAARA04);
+printf ("PIB (Em R$): %f", PIBARA04);
+printf ("Número de Pontos Turísticos: %i", NPTARA04);
+
+printf ("2- Córdoba(B)\n");
+printf ("- Córdoba(B01)\n");
+printf ("População: %f", PPARB01);
+printf ("Área (Em km²): %f", AREAARB01);
+printf ("PIB (Em R$): %f", PIBARB01);
+printf ("Número de Pontos Turísticos: %i", NPTARB01);
+
+printf ("- Villa María(B02)\n");
+printf ("População: %f", PPARB02);
+printf ("Área (Em km²): %f", AREAARB02);
+printf ("PIB (Em R$): %f", PIBARB02);
+printf ("Número de Pontos Turísticos: %i", NPTARB02);
+
+printf ("- Río Cuarto(B03)\n");
+printf ("População: %f", PPARB03);
+printf ("Área (Em km²): %f", AREAARB03);
+printf ("PIB (Em R$): %f", PIBARB03);
+printf ("Número de Pontos Turísticos: %i", NPTARB03);
+
+printf ("- Alta Gracia(B04)\n");
+printf ("População: %f", PPARB04);
+printf ("Área (Em km²): %f", AREAARB04);
+printf ("PIB (Em R$): %f", PIBARB04);
+printf ("Número de Pontos Turísticos: %i", NPTARB04);
+
+printf ("3- Santa Fe(C)\n");
+printf ("- Rosario(C01)\n");
+printf ("População: %f", PPARC01);
+printf ("Área (Em km²): %f", AREAARC01);
+printf ("PIB (Em R$): %f", PIBARC01);
+printf ("Número de Pontos Turísticos: %i", NPTARC01);
+
+printf ("- Santa Fe(C02)\n");
+printf ("População: %f", PPARC02);
+printf ("Área (Em km²): %f", AREAARC02);
+printf ("PIB (Em R$): %f", PIBARC02);
+printf ("Número de Pontos Turísticos: %i", NPTARC02);
+
+printf ("- Rafaela(C03)\n");
+printf ("População: %f", PPARC03);
+printf ("Área (Em km²): %f", AREAARC03);
+printf ("PIB (Em R$): %f", PIBARC03);
+printf ("Número de Pontos Turísticos: %i", NPTARC03);
+
+printf ("- Venado Tuerto(C04)\n");
+printf ("População: %f", PPARC04);
+printf ("Área (Em km²): %f", AREAARC04);
+printf ("PIB (Em R$): %f", PIBARC04);
+printf ("Número de Pontos Turísticos: %i", NPTARC04);
+
+printf ("4- Mendoza(D)\n");
+printf ("- Mendoza(D01)\n");
+printf ("População: %f", PPARD01);
+printf ("Área (Em km²): %f", AREAARD01);
+printf ("PIB (Em R$): %f", PIBARD01);
+printf ("Número de Pontos Turísticos: %i", NPTARD01);
+
+printf ("- San Rafael(D02)\n");
+printf ("População: %f", PPARD02);
+printf ("Área (Em km²): %f", AREAARD02);
+printf ("PIB (Em R$): %f", PIBARD02);
+printf ("Número de Pontos Turísticos: %i", NPTARD02);
+
+printf ("- Luján de Cuyo(D03)\n");
+printf ("População: %f", PPARD03);
+printf ("Área (Em km²): %f", AREAARD03);
+printf ("PIB (Em R$): %f", PIBARD03);
+printf ("Número de Pontos Turísticos: %i", NPTARD03);
+
+printf ("- Malargüe(D04)\n");
+printf ("População: %f", PPARD04);
+printf ("Área (Em km²): %f", AREAARD04);
+printf ("PIB (Em R$): %f", PIBARD04);
+printf ("Número de Pontos Turísticos: %i", NPTARD04);
+
+printf ("5- Tucumán(E)\n");
+printf ("- San Miguel de Tucumán(E01)\n");
+printf ("População: %f", PPARE01);
+printf ("Área (Em km²): %f", AREAARE01);
+printf ("PIB (Em R$): %f", PIBARE01);
+printf ("Número de Pontos Turísticos: %i", NPTARE01);
+
+printf ("- Tafí Viejo(E02)\n");
+printf ("População: %f", PPARE02);
+printf ("Área (Em km²): %f", AREAARE02);
+printf ("PIB (Em R$): %f", PIBARE02);
+printf ("Número de Pontos Turísticos: %i", NPTARE02);
+
+printf ("- Yerba Buena(E03)\n");
+printf ("População: %f", PPARE03);
+printf ("Área (Em km²): %f", AREAARE03);
+printf ("PIB (Em R$): %f", PIBARE03);
+printf ("Número de Pontos Turísticos: %i", NPTARE03);
+
+printf ("- Monteros(E04)\n");
+printf ("População: %f", PPARE04);
+printf ("Área (Em km²): %f", AREAARE04);
+printf ("PIB (Em R$): %f", PIBARE04);
+printf ("Número de Pontos Turísticos: %i", NPTARE04);
+
+printf ("6- Salta(F)\n");
+printf ("- Salta(F01)\n");
+printf ("População: %f", PPARF01);
+printf ("Área (Em km²): %f", AREAARF01);
+printf ("PIB (Em R$): %f", PIBARF01);
+printf ("Número de Pontos Turísticos: %i", NPTARF01);
+
+printf ("- Orán(F02)\n");
+printf ("População: %f", PPARF02);
+printf ("Área (Em km²): %f", AREAARF02);
+printf ("PIB (Em R$): %f", PIBARF02);
+printf ("Número de Pontos Turísticos: %i", NPTARF02);
+
+printf ("- Tartagal(F03)\n");
+printf ("População: %f", PPARF03);
+printf ("Área (Em km²): %f", AREAARF03);
+printf ("PIB (Em R$): %f", PIBARF03);
+printf ("Número de Pontos Turísticos: %i", NPTARF03);
+
+printf ("- Cafayate(F04)\n");
+printf ("População: %f", PPARF04);
+printf ("Área (Em km²): %f", AREAARF04);
+printf ("PIB (Em R$): %f", PIBARF04);
+printf ("Número de Pontos Turísticos: %i", NPTARF04);
+
+printf ("7- Entre Ríos(G)\n");
+printf ("- Paraná(G01)\n");
+printf ("População: %f", PPARG01);
+printf ("Área (Em km²): %f", AREAARG01);
+printf ("PIB (Em R$): %f", PIBARG01);
+printf ("Número de Pontos Turísticos: %i", NPTARG01);
+
+printf ("- Concordia(G02)\n");
+printf ("População: %f", PPARG02);
+printf ("Área (Em km²): %f", AREAARG02);
+printf ("PIB (Em R$): %f", PIBARG02);
+printf ("Número de Pontos Turísticos: %i", NPTARG02);
+
+printf ("- Gualeguaychú(G03)\n");
+printf ("População: %f", PPARG03);
+printf ("Área (Em km²): %f", AREAARG03);
+printf ("PIB (Em R$): %f", PIBARG03);
+printf ("Número de Pontos Turísticos: %i", NPTARG03);
+
+printf ("- Villaguay(G04)\n");
+printf ("População: %f", PPARG04);
+printf ("Área (Em km²): %f", AREAARG04);
+printf ("PIB (Em R$): %f", PIBARG04);
+printf ("Número de Pontos Turísticos: %i", NPTARG04);
+
+printf ("8- Chubut(H)\n");
+printf ("- Comodoro Rivadavia(H01)\n");
+printf ("População: %f", PPARH01);
+printf ("Área (Em km²): %f", AREAARH01);
+printf ("PIB (Em R$): %f", PIBARH01);
+printf ("Número de Pontos Turísticos: %i", NPTARH01);
+
+printf ("- Puerto Madryn(H02)\n");
+printf ("População: %f", PPARH02);
+printf ("Área (Em km²): %f", AREAARH02);
+printf ("PIB (Em R$): %f", PIBARH02);
+printf ("Número de Pontos Turísticos: %i", NPTARH02);
+
+printf ("- Trelew(H03)\n");
+printf ("População: %f", PPARH03);
+printf ("Área (Em km²): %f", AREAARH03);
+printf ("PIB (Em R$): %f", PIBARH03);
+printf ("Número de Pontos Turísticos: %i", NPTARH03);
+
+printf ("- Esquel(H04)\n");
+printf ("População: %f", PPARH04);
+printf ("Área (Em km²): %f", AREAARH04);
+printf ("PIB (Em R$): %f", PIBARH04);
+printf ("Número de Pontos Turísticos: %i", NPTARH04);
+
+
     return 0;
 }
