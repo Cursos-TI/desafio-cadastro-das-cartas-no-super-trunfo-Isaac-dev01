@@ -30,9 +30,27 @@ printf ("PIB:\n");
 scanf ("%f", &pib1);
 
 printf ("Número de Pontos Turísticos:\n");
-scanf ("%d\n", &turismo1);
+scanf ("%d", &turismo1);
 
+printf ("\n");
 
+printf ("Cidade 2:\n");
+scanf ("%s", &cidade2);
+
+printf ("Código da Carta (A02):\n");
+scanf ("%s", &codigo2);
+
+printf ("População:\n");
+scanf ("%d", &populacao2);
+
+printf ("Área:\n");
+scanf ("%f", &area2);
+
+printf ("PIB:\n");
+scanf ("%f", &pib2);
+
+printf ("Número de Pontos Turísticos:\n");
+scanf ("%d", &turismo2);
 
 
 
