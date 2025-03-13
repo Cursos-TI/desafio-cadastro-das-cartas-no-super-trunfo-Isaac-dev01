@@ -6,7 +6,7 @@ printf ("Seja bem vindo ao desafio - Cartas Super Trunfo!\n\n");
 
 //banco de dados
 
-char cidade1 [10], cidade2 [10], estado [10], codigo1 [3], codigo2 [3];
+char cidade1 [20], cidade2 [20], estado [20], codigo1 [3], codigo2 [3];
 int populacao1, populacao2, turismo1, turismo2;
 float pib1, pib2, area1, area2, DP1, DP2, PPP1, PPP2;
 
