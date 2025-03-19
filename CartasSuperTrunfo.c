@@ -8,7 +8,7 @@ printf ("Seja bem vindo ao desafio - Cartas Super Trunfo!\n\n");
 
 char cidade1 [20], cidade2 [20], estado [20], codigo1 [3], codigo2 [3];
 int populacao1, populacao2, turismo1, turismo2;
-float pib1, pib2, area1, area2, DP1, DP2, PPP1, PPP2;
+float pib1, pib2, area1, area2, DP1, DP2, PPP1, PPP2, Superpoder1, Superpoder2, dpi1, dpi2;
 
 printf ("Cadastre as cartas.\n");
 printf ("Estado(A):\n");
@@ -48,6 +48,12 @@ PPP1 = pib1 / populacao1;
 
 printf ("PIB per capita: %f\n", PPP1);
 
+dpi1 = DP1 / 1;
+
+Superpoder1 = populacao1 + area1 + pib1 + PPP1 + dpi1 + turismo1;
+
+printf ("Super Poder (carta1): %.1f\n", Superpoder1);
+
 printf ("\n");
 
 printf ("Cidade 2:\n");
@@ -85,7 +91,11 @@ PPP2 = pib2 / populacao2;
 
 printf ("PIB per capita: %f\n", PPP2);
 
+dpi2 = DP2 / 1;
 
+Superpoder2 = populacao2 + area2 + pib2 + PPP2 + dpi2 + turismo2;
+
+printf ("Super Poder (carta2): %.1f\n", Superpoder2);
 
     return 0;
 }
