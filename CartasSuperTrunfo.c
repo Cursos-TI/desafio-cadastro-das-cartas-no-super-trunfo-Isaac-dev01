@@ -97,5 +97,26 @@ Superpoder2 = populacao2 + area2 + pib2 + PPP2 + dpi2 + turismo2;
 
 printf ("Super Poder (carta2): %.1f\n", Superpoder2);
 
+printf("\n");
+
+printf ("Comparação de cartas (1 = carta1 vence, 0 = carta2 vence)");
+
+int resultadoA, resultadoB, resultadoC, resultadoD, resultadoE, resultadoF;
+
+resultadoA = populacao1 > populacao2;
+resultadoB = area1 > area2;
+resultadoC = pib1 > pib2;
+resultadoD = PPP1 > PPP2;
+resultadoE = dpi1 < dpi2;
+resultadoF = turismo1 > turismo2;
+
+printf ("Resultado das Comparações:\n");
+printf ("População: %d\n", resultadoA);
+printf ("Área: %d\n", resultadoB);
+printf ("PIB: %d\n", resultadoC);
+printf ("PIB Per Capita: %d\n", resultadoD);
+printf ("Dencidade Populacional: %d\n", resultadoE);
+printf ("Número de Pontos Turisticos: %d\n", resultadoF);
+
     return 0;
 }
